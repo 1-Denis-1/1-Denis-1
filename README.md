@@ -1,54 +1,41 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="Animated Header"/>
-</p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile.." alt="Typing SVG"/>
-</p>
+<h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</span>, my name is Denis</h1>
+<h3 align="center">An cybersecurity consultant from Russia.</h3>
 
-<!-- Social Media Badges -->
-<p align="center">
-  <a href="mailto:da.biktimirov@yandex.ru">
-    <img src="https://cdn-icons-png.freepik.com/512/9068/9068635.png" alt="Mail">
-  </a>
-</p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kate2048&style=flat-square" alt="Profile Views"/>
-</p>
 
 ---
 
-<!-- About Me Header -->
-<p align="center">
-  <img src="https://img.shields.io/badge/About%20Me-%23f97316?style=for-the-badge&logo=readme&logoColor=white" alt="About Me">
+
+<!--   <a href="https://medium.com/@________"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
 </p>
 
-## 🙋‍♂️ About Me
+<img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
-- 🚀 **Education:** B.Tech in Computer Science and Engineering (Data Science)  
+## :man_technologist: About Me :
+I am an Cybersecurity consultant from Russia.
 
-<!-- Skills Header -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🛠️-Skills-blue?style=for-the-badge" alt="Skills">
-</p>
-
-### 🛠️ **Skills**
-- **Languages:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-- **Tools & Platforms:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- **Cloud & Deployment:** ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+-  💬 Ask me about **Cybersecurity**
+- 📫 How to reach me **da.biktimirov@yandex.ru**
 
 ---
 
-### 📊 **GitHub Stats**
+
+<!--
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kate2048&theme=tokyonight" alt="GitHub Streak"/>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Denis-1&theme=gotham&hide_border=true&layout=compact&langs_count=5"   width="35%" alt="1-Denis-1" align="left"></a>
 </p>
+-->
+<!-- ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-Denis-1&theme=gotham&hide_border=true&layout=compact&langs_count=6)
+![github-stats1](https://github-readme-stats.vercel.app/api?username=1-Denis-1&theme=gotham&show_icons=true&count_private=true&hide_border=true)
+![github-stats2](https://github-readme-streak-stats.herokuapp.com?user=1-Denis-1&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kate2048&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<a href="https://github.com/1-Denis-1?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=1-Denis-1&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="1-Denis-1 github-readme-stats"/></a>
+<a href="https://github.com/1-Denis-1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=1-Denis-1&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="1-Denis-1 github-readme-streak-stats"/></a>
 </p>
+
+
+### Thanks for visiting! 😊
